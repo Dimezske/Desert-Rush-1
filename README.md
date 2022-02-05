@@ -1,2 +1,2 @@
-# Desert-Rush-1
-Old project Phaser platformer
+# Desert-Rush
+A Phaser Platformer
